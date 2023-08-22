@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5BA-VX-1TW"; */
+"5BA-VX-1TW.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "A11-jJ-JUc"; */
+"A11-jJ-JUc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GQA-td-xpR"; */
+"GQA-td-xpR.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Время"; ObjectID = "XUZ-8V-gEi"; */
+"XUZ-8V-gEi.placeholder" = "Время";
+
+/* Class = "UILabel"; text = "Выберите категорию авто"; ObjectID = "Zpk-PA-3K0"; */
+"Zpk-PA-3K0.text" = "Выберите категорию авто";
+
+/* Class = "UITextField"; placeholder = "Населенный пункт"; ObjectID = "bMg-Zb-NHa"; */
+"bMg-Zb-NHa.placeholder" = "Населенный пункт";
+
+/* Class = "UILabel"; text = "Ваш город"; ObjectID = "bnx-Pr-L6E"; */
+"bnx-Pr-L6E.text" = "Ваш город";
+
+/* Class = "UILabel"; text = "Выберите пункт ТО"; ObjectID = "fmm-Oe-e6W"; */
+"fmm-Oe-e6W.text" = "Выберите пункт ТО";
+
+/* Class = "UILabel"; text = "Выберите Ваш населенный пункт"; ObjectID = "hTw-c6-mXt"; */
+"hTw-c6-mXt.text" = "Выберите Ваш населенный пункт";
+
+/* Class = "UIButton"; normalTitle = "ПРОДОЛЖИТЬ"; ObjectID = "of3-ml-1TX"; */
+"of3-ml-1TX.normalTitle" = "ПРОДОЛЖИТЬ";
+
+/* Class = "UITextField"; placeholder = "Дата"; ObjectID = "vUj-ue-rMH"; */
+"vUj-ue-rMH.placeholder" = "Дата";
